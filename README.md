@@ -7,7 +7,7 @@
 
 Construyo productos donde la experiencia conversacional, la automatización y los datos convergen.
 
-[LinkedIn](https://www.linkedin.com/in/rainier-alejandro/) · [intelartdo.com](https://intelartdo.com) · rainier@intelartdo.com
+[Portafolio personal](https://agency.automatadr.com) · [intelartdo.com](https://intelartdo.com)
 
 </div>
 
@@ -44,10 +44,10 @@ Me interesa trabajar con startups y equipos que necesiten:
 
 > _“La mejor experiencia conversacional nace cuando la lógica de negocio, los datos y la IA conversan entre sí.”_
 
-Si tienes una idea o quieres conectar, **escríbeme a rainier@intelartdo.com** o contacta por LinkedIn.
+Si tienes una idea o quieres conectar, **escríbeme a rainiercf66@gmail.com**.
 
 ---
 
 <div align="center">
-  <sub>© 2025 Rainier Alejandro · Construyendo productos conversacionales con IA.</sub>
+  <sub>© 2025 Rainier Alejandro · Redefiniendo el panorama de la IA en Republica Dominicana.</sub>
 </div>
