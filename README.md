@@ -28,7 +28,7 @@ Construyo productos donde la experiencia conversacional, la automatización y lo
 | [reservafacil-base](https://github.com/Arconte112/reservafacil-base) | Plataforma completa de reservas para restaurantes con API FastAPI + dashboard Next.js, lista para agentes de voz/chat. | FastAPI · Next.js · PostgreSQL · Supabase |
 | [brainportal](https://github.com/Arconte112/brainportal) | Centro de productividad personal con IA, sincronización Google Calendar y Supabase como backend. | Next.js · Supabase · OpenRouter |
 | [voxneo](https://github.com/Arconte112/voxneo) | Transcriptor de escritorio (Electron) con Groq Whisper y base local consultable. | Electron · React · Groq · SQLite |
-| [retratai](https://github.com/Arconte112/retratai) | Landing page para vender retratos generados con IA; funnel completo con pagos y generación automática. | Next.js · Tailwind CSS · Stripe · Replicate |
+| [retratai](https://github.com/Arconte112/retratai) | SaaS de retratos generados con IA: onboarding, checkout con Stripe y generación con Replicate. | Next.js · Tailwind CSS · Stripe · Replicate |
 | [htmltoimg](https://github.com/Arconte112/htmltoimg) | Microservicio para convertir HTML en snapshots listos para social/email usando Playwright + MinIO. | Flask · Playwright · MinIO |
 | [ainews_recolector](https://github.com/Arconte112/ainews_recolector) | Recolector de noticias IA con deduplicación LLM y distribución vía Telegram/Webhooks. | Python · OpenRouter · Telegram Bot |
 
