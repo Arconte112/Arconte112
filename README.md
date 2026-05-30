@@ -7,7 +7,7 @@
 
 Construyo productos donde la experiencia conversacional, la automatización y los datos convergen.
 
-[Portafolio personal](https://agency.automatadr.com) · [intelartdo.com](https://intelartdo.com)
+[Portafolio personal](https://agency.automatadr.com)
 
 </div>
 
