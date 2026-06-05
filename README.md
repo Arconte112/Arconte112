@@ -7,7 +7,7 @@
 
 Construyo productos donde la experiencia conversacional, la automatización y los datos convergen.
 
-[Portafolio personal](https://agency.automatadr.com)
+[Portafolio personal](https://portafolio.automatadr.com)
 
 </div>
 
