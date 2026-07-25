@@ -46,7 +46,7 @@ Me interesa trabajar con startups y equipos que necesiten:
 
 > _“La mejor experiencia conversacional nace cuando la lógica de negocio, los datos y la IA conversan entre sí.”_
 
-Si tienes una idea o quieres conectar, **escríbeme a rainiercf66@gmail.com**.
+Si tienes una idea o quieres conectar, **escríbeme a alejandro@autonomyxdr.com**.
 
 ---
 
